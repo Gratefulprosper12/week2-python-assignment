@@ -21,5 +21,10 @@ my_list.sort()
 # Find and print the index of 30
 print("Index of 30:", my_list.index(30))
 
-# Optional: Print the final list to verify
-print("Final list:", my_list)
+ANSWERS
+2.After appending: [10, 20, 30, 40]
+3.After inserting 15: [10, 15, 20, 30, 40]
+4.After extending: [10, 15, 20, 30, 40, 50, 60, 70]
+5.After popping last element: [10, 15, 20, 30, 40, 50, 60]
+6.After sorting: [10, 15, 20, 30, 40, 50, 60]
+7.Index of 30: 3
